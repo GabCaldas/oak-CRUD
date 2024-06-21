@@ -31,4 +31,4 @@ Para rodar o projeto localmente, você precisará ter o **Node.js** e o **npm** 
 ## Como rodar o projeto
 
 npm install  (para instalar todas as dependências do projeto)
-npm run dev (para rodar o projeto) 
+e npm run dev (para rodar o projeto), ceritifique-se de ter o tailwind instalado também!
