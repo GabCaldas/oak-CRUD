@@ -19,6 +19,8 @@ Este projeto é um aplicativo simples de CRUD (Create, Read, Update, Delete) par
    - Após cadastrar um novo produto, a listagem é exibida automaticamente.
    - Existe um botão na listagem para **Cadastrar um Novo Produto**.
 
+![Tela de Listagem](src/assets/homegit.png)
+
 ## Pré-requisitos
 
 Para rodar o projeto localmente, você precisará ter o **Node.js** e o **npm** (Node Package Manager) instalados em sua máquina.
